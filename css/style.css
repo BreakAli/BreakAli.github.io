@@ -253,6 +253,7 @@ h6 {
 .gallery img:hover {
   opacity: 0.4;
 }
+
 #rap .text {
   position: relative;
   bottom: 30px;
@@ -261,6 +262,61 @@ h6 {
 }
 
 #rap:hover .text {
+  visibility: visible;
+}
+
+#rap2 .text {
+  position: relative;
+  bottom: 30px;
+  left: 0px;
+  visibility: hidden;
+}
+
+#rap2:hover .text {
+  visibility: visible;
+}
+
+#rap3 .text {
+  position: relative;
+  bottom: 30px;
+  left: 0px;
+  visibility: hidden;
+}
+
+#rap3:hover .text {
+  visibility: visible;
+}
+
+#rap4 .text {
+  position: relative;
+  bottom: 30px;
+  left: 0px;
+  visibility: hidden;
+}
+
+#rap4:hover .text {
+  visibility: visible;
+}
+
+#rap5 .text {
+  position: relative;
+  bottom: 30px;
+  left: 0px;
+  visibility: hidden;
+}
+
+#rap5:hover .text {
+  visibility: visible;
+}
+
+#rap6 .text {
+  position: relative;
+  bottom: 30px;
+  left: 0px;
+  visibility: hidden;
+}
+
+#rap6:hover .text {
   visibility: visible;
 }
 
