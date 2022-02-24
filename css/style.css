@@ -175,6 +175,10 @@ h6 {
   margin-left: 10px;
 }
 
+.intro {
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
 .footer_email {
   font-weight: 900;
   font-size: 30px;
