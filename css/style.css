@@ -259,6 +259,7 @@ h6 {
 
 #rap .text {
   position: relative;
+  font-family: sans-serif, Arial, Helvetica;
   bottom: 100px;
   left: 0px;
   visibility: hidden;
