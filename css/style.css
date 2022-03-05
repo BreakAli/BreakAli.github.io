@@ -260,7 +260,7 @@ h6 {
 #rap .text {
   position: relative;
   font-family: sans-serif, Arial, Helvetica;
-  bottom: 100px;
+  bottom: 0px;
   left: 0px;
   visibility: hidden;
 }
@@ -271,7 +271,8 @@ h6 {
 
 #rap2 .text {
   position: relative;
-  bottom: 30px;
+  font-family: sans-serif, Arial, Helvetica;
+  bottom: 0px;
   left: 0px;
   visibility: hidden;
 }
@@ -282,7 +283,8 @@ h6 {
 
 #rap3 .text {
   position: relative;
-  bottom: 30px;
+  font-family: sans-serif, Arial, Helvetica;
+  bottom: 0px;
   left: 0px;
   visibility: hidden;
 }
@@ -293,7 +295,8 @@ h6 {
 
 #rap4 .text {
   position: relative;
-  bottom: 30px;
+  font-family: sans-serif, Arial, Helvetica;
+  bottom: 0px;
   left: 0px;
   visibility: hidden;
 }
@@ -304,7 +307,8 @@ h6 {
 
 #rap5 .text {
   position: relative;
-  bottom: 30px;
+  font-family: sans-serif, Arial, Helvetica;
+  bottom: 0px;
   left: 0px;
   visibility: hidden;
 }
@@ -315,7 +319,8 @@ h6 {
 
 #rap6 .text {
   position: relative;
-  bottom: 30px;
+  font-family: sans-serif, Arial, Helvetica;
+  bottom: 0px;
   left: 0px;
   visibility: hidden;
 }
