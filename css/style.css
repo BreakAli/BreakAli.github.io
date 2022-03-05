@@ -254,12 +254,12 @@ h6 {
 }
 
 .gallery img:hover {
-  opacity: 0.4;
+  opacity: 0.6;
 }
 
 #rap .text {
   position: relative;
-  bottom: 30px;
+  bottom: 100px;
   left: 0px;
   visibility: hidden;
 }
