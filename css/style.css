@@ -247,6 +247,20 @@ h6 {
   -o-background-size: cover;
   background-size: cover;
 }
+/* Portfolio Images */
+.portImage {
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+.projectHeader {
+  margin-top: 150px;
+  margin-bottom: 700px;
+}
+
+.portText {
+  margin-top: 200px;
+}
 
 /* Gallery */
 .gallery {
