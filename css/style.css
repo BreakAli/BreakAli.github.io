@@ -38,6 +38,9 @@ hr {
 .mb {
   margin-bottom: 80px;
 }
+.bmb {
+  padding-bottom: 300px;
+}
 
 /* ==========================================================================
    General styles
@@ -47,6 +50,7 @@ html {
 }
 
 body {
+  background-color: #c1a886;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -113,6 +117,7 @@ h6 {
 
 #headerwrap {
   background: url(../img/back.jpg) no-repeat center top;
+  opacity: 0.7;
   margin-top: -70px;
   padding-top: 250px;
   text-align: center;
@@ -247,9 +252,22 @@ h6 {
   -o-background-size: cover;
   background-size: cover;
 }
+
+#about {
+  font-size: 20px;
+  background-color: #e2dbc8;
+}
+#exp {
+  font-size: 20px;
+  background-color: #e2dbc8;
+}
+#portfolio {
+  background-color: #e2dbc8;
+}
+
 /* Portfolio Images */
 .portImage {
-  margin-top: 10px;
+  margin-top: 50px;
   margin-bottom: 50px;
 }
 
@@ -259,9 +277,13 @@ h6 {
 }
 
 .portText {
-  margin-top: 200px;
+  font-size: 20px;
+  margin-top: 20px;
 }
 
+.rscolor {
+  background-color: #e2dbc8;
+}
 /* Gallery */
 .gallery {
   margin-top: 30px;
