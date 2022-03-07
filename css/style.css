@@ -32,11 +32,17 @@ hr {
 }
 
 .mt {
-  margin-top: 80px;
+  padding-top: 80px;
+}
+.mmt {
+  padding-top: 150px;
 }
 
 .mb {
-  margin-bottom: 80px;
+  padding-bottom: 80px;
+}
+.mmb {
+  padding-bottom: 150px;
 }
 .bmb {
   padding-bottom: 300px;
